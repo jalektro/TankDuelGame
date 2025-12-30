@@ -38,7 +38,7 @@ No additional configuration is required to begin.
 - Movement keys can be held down to move the tank continuously.
 - Shooting is limited by a fixed delay to prevent continuous firing.
 
-<img src="C:\Github\TankDuelGame\resources\pictures\playerGUI.jpg" alt="gui" style="zoom:100%;" />
+<img src="..\resources\pictures\playerGUI.jpg" alt="gui" style="zoom:100%;" />
 
 ## Notes
 
