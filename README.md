@@ -1,7 +1,7 @@
 # TankDuelGame
 
 TankDuelGame is a two-player tank combat game inspired by the classic *Wii Play – Tanks!* game.  
-The game features two tanks starting in opposite corners of the map (top-left and bottom-right) and supports multiple platforms, including PC and an embedded FPGA-based system.
+The game features two tanks starting in opposite corners of the map (top-left and bottom-right) and supports an embedded FPGA-based system.
 
 ---
 
@@ -12,18 +12,6 @@ The game features two tanks starting in opposite corners of the map (top-left an
 - Real-time player input
 - HDMI-based video output for embedded version
 - Modular hardware/software design
-
----
-
-## PC Version
-
-The PC version allows the game to be played directly on a desktop or laptop environment.
-
-### Getting Started
-
-Please follow the instructions provided in the PC-specific documentation:
-
-[PC Manual](./Game_PC/README.md)
 
 ---
 
