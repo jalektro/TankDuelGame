@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\DevWorks_vitis\TankDuel\export\TankDuel\sw\boot\fsbl.elf
+	C:\DevWorks_vitis\TankDuelGame\_ide\bitstream\HDMI_RTOS.bit
+	C:\DevWorks_vitis\TankDuelGame\build\TankDuelGame.elf
+}
